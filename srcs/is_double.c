@@ -6,7 +6,7 @@
 /*   By: psotto-m <psotto-m@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/09 00:13:12 by psotto-m          #+#    #+#             */
-/*   Updated: 2023/03/03 13:25:11 by psotto-m         ###   ########.fr       */
+/*   Updated: 2023/10/08 15:13:56 by psotto-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,10 +27,10 @@ int	is_double(int ac, char **av)
 		{
 			if (nbr == ft_atoi(av[k]))
 				error();
-		k++;
+			k++;
 		}
-	i++;
-	k = i + 1;
+		i++;
+		k = i + 1;
 	}
 	return (1);
 }

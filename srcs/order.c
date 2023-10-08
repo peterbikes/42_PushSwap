@@ -6,7 +6,7 @@
 /*   By: psotto-m <psotto-m@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/09 00:13:12 by psotto-m          #+#    #+#             */
-/*   Updated: 2023/03/03 13:24:51 by psotto-m         ###   ########.fr       */
+/*   Updated: 2023/10/08 15:13:42 by psotto-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,7 +28,7 @@ int	order(int ac, char **av)
 		{
 			if (nbr > ft_atoi(av[i]))
 				return (1);
-		i++;
+			i++;
 		}
 		k++;
 	}
