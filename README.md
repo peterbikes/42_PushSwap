@@ -6,5 +6,12 @@ This project involves sorting data on a stack, with a limited set of instruction
 
 <img src="./extra/push_swap.gif"/>
 
+
+## Recommended testers:
+
+- [gemartin99's push-swap tester](https://github.com/gemartin99/Push-Swap-Tester#-a-test-for-each-case-between-1-and-500)
+- [o-reo's push-swap visualizer](https://github.com/o-reo/push_swap_visualizer)
+
+
 --------
 LinkedIn: https://www.linkedin.com/in/pedrosmpm
